@@ -1,4 +1,4 @@
-# Hi there, I'm Prarthana, and you just found the right candidate! 👋  
+# Hi there, I'm Prarthana, and you just found the right candidate!👋
 
 I'm a graduate student at Northeastern University pursuing a Master of Science in Information Systems with a major in Big Data Analytics and Data Engineering. I specialize in crafting end-to-end data pipelines, integrating complex datasets, and creating impactful visualizations. With experience in Data Analysis, automation and Quality Assurance from previous roles, I bring both precision, creativity and innovation to every project, turning raw data into strategies and stories
 
