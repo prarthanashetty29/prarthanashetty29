@@ -41,11 +41,6 @@ TECHNICALSKILLS
 Feel free to reach out—I’d love to connect and chat about opportunities where I can add value to your team! 🚀  
 
 ---
-## GitHub Stats  
-
-![Prarthana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prarthanashetty29&show_icons=true&theme=radical)  
-
----
 ## Most Used Languages  
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prarthanashetty29&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
