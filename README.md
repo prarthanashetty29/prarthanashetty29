@@ -14,9 +14,20 @@ I'm a graduate student at Northeastern University pursuing a Master of Science i
 ---
 ## What Makes Me the Right Candidate?  
 
-🎯 My professional experience at Accenture and as a QA Intern, where I worked extensively on data analysis, automation, and SDLC processes.  
-💻 Academic projects like building a travel recommendation system and food inspection dashboards show my ability to handle real-world challenges.  
-✨ A passion for solving problems with data-driven solutions and a knack for making processes efficient.  
+🎯 At Accenture, I navigated intricate data landscapes, resolving discrepancies in real-time using SQL and optimizing workflows by diving deep into agile SDLC processes. I didn’t just solve problems—I ensured systems ran smoother, faster, and smarter.
+💻 My academic journey brought technical challenges to life, I built a travel recommendation system powered by Airflow, Snowflake, and DBT, turning raw data into dynamic insights. For another project, I created food inspection dashboards that merged Talend ETL pipelines with Power BI, revealing hidden patterns in the data.
+✨ Whether it's engineering ETL pipelines, orchestrating data flows, or crafting visual narratives, I bring a rare mix of precision and creativity. I don't just deliver data; I deliver data that speaks, guides, and drives decisions. 🚀
+
+---
+
+TECHNICALSKILLS
+ • Databases & Workflow: MySQL,SSMS,AzureDataStudio,Snowflake,Datalake,Databricks,
+ • Programming: SQL,Python,Java,R,HTML,Javascript
+ • ETL&Reporting: Alteryx,Talend,Airflow, Snowflake, Power BI, Tableau, MS Excel, PowerPivot, ER Studio
+ • AI/Machine Learning Algorithms: Regression, KNN,RandomForest,Decision Tree, SVM, Adaboost
+ • Libraries: NumPy, Pandas, Matplotlib, PyTorch, Scikit-Learn, TensorFlow
+ • Version Control & Others: Git,Colab,Jira, Lucid Chart, ServiceNow, Jupyter Notebook, Confluence, Figma, MS Office Suite, Salesforce
+ • Core Competencies: DataVisualization, Data Analytics, Data Warehousing, Data Modeling, ETL, Project Managemen
 
 ---
 
@@ -27,24 +38,9 @@ I'm a graduate student at Northeastern University pursuing a Master of Science i
 
 ---
 
-## Skills  
-
-- **Programming**: Python, SQL, Java  
-- **Tools**: Power BI, Tableau, Talend, Airflow  
-- **Specialties**: Data Analysis, SDLC, Automation, ETL Pipelines, Business Intelligence  
-
----
-
-## Current Focus  
-
-🌟 **Sharpening my expertise** in advanced data modeling and machine learning.  
-📊 **Building impactful dashboards** and visualizations that tell a story.  
-🚀 **Collaborating on projects** to bring innovative ideas to life.  
-
----
-
-
-
----
-
 Feel free to reach out—I’d love to connect and chat about opportunities where I can add value to your team! 🚀  
+
+---
+## GitHub Stats  
+
+![Prarthana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prarthanashetty29&show_icons=true&theme=radical)  
