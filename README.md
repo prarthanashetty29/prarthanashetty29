@@ -3,7 +3,7 @@
 
 I specialize in building end-to-end data pipelines, integrating complex datasets,
 and turning raw data into decisions. With a background in Data Engineering,
-Business Analysis, and QA at Accenture, I bring both precision and creativity
+Business Analysis, and QA, I bring both precision and creativity
 to every project.
 
 ---
