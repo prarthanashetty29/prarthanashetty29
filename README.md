@@ -10,7 +10,7 @@ to every project.
 
 ## About Me
 - 🎓 MS Information Systems (Big Data & Data Engineering) — Northeastern University
-- 🏢 Data Scientist (OnPoint Insights) — Scalable Power BI dashboards, data modeling, stakeholder management | SQL, Python, Excel and Power Automate
+- 🏢 Data Scientist (OnPoint Insights) — Scalable Power BI dashboards, data modeling, stakeholder management 
 - 🏢 Data Analyst (Combined Jewish Philanthropies) — ETL pipelines, Snowflake data models, KPI dashboards, data quality, stakeholder decision-making
 - 🏢 Former Analyst at Accenture — SQL optimization, agile SDLC, real-time data quality
 - 🔭 Currently exploring AI pipelines, LLM applications, and cloud-native data stacks
