@@ -36,6 +36,8 @@ Built ETL pipelines using Talend to process food inspection data and created
 Power BI dashboards that surfaced hidden patterns across inspection categories,
 violations, and geographic trends.
 
+[View Repository →](https://github.com/prarthanashetty29/food-establishment-inspection)
+
 ---
 
 ## 🛠️ Technical Skills
@@ -54,5 +56,5 @@ violations, and geographic trends.
 ---
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/prarthanaganeshshetty)
+[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:shetty.prar@northeastern.edu)
